@@ -10,3 +10,6 @@ To challenge us to learn animated movement in JavaScript, or cry at the difficul
 
 ## Roadmap<BR>
 Understanding these concepts more and more is the goal. If I ever feel like making a webpage of a virtual creepy art gallery, I have one trick up my sleeve now.
+  
+## License<BR>
+  MIT license
